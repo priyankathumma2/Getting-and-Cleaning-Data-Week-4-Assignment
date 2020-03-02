@@ -7,7 +7,7 @@ The variables in the data X are sensor signals measured with waist-mounted smart
 
 # Code explaination
 
-The code combined training dataset and test dataset, and extracted partial variables to create another dataset with the averages of each variable for each activity.
+The code combined training dataset and test dataset, and extracted partial variables to create another dataset with the averages of each variable for each activity
 
 # New dataset
 
